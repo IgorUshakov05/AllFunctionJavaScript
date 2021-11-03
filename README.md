@@ -1,0 +1,2 @@
+# AllFunctionJavaScript
+For lerning
