@@ -9,7 +9,7 @@ tell("Igor")
 const tell1 = function tell1(name) {
     console.log("Привет2 -", name)
 }
-tell1("Igor")
+tell1("Your name")
 
 
 //Anoninous Function
@@ -28,8 +28,8 @@ const arrow2  = name => console.log("Привет4 -", name);
 
 const pow = nam => nam ** 2;
 
-arrow("Igor")
-arrow2("Igor")
+arrow("Your name")
+arrow2("Your name")
 console.log(pow(3))
 
 //Замыкание
